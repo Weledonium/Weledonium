@@ -1,4 +1,6 @@
-### Hi there 👋
+Oryantasyon dersi finali için hazırladığım ödev
+https://www.youtube.com/watch?v=kTS87sku2vE
+
 
 <!--
 **Weledonium/Weledonium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
